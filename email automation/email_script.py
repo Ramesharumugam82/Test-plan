@@ -2,8 +2,8 @@ import smtplib
 
 smtp_server = 'smtp.gmail.com'
 smtp_port = 587
-smtp_username = 'youremail@gmail.com'
-smtp_password = 'yourpassword'
+smtp_username = 'judynic@gmail.com'
+smtp_password = 'pass'
 
 from_email = 'youremail@gmail.com'
 to_email = 'recipient@example.com'
